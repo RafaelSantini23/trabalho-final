@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Annotations</string>
+    <string name="banner">Bem-Vindo ao Annotations</string>
+    <string name="email">Digite seu E-mail</string>
+    <string name="senha">Digite sua senha</string>
+    <string name="register">Regristre-se</string>
+    <string name="esqueceu">Esqueceu sua senha?</string>
+    <string name="bannerRegistro">Crie seu lembrete</string>
+    <string name="nomeAnotação">Digite um nome para o seu lembrete</string>
+    <string name="criar">Criar</string>
+    <string-array name="spinner">
+        <item> Insira a relevância do seu lembrete </item>
+        <item> Alta </item>
+        <item> Média </item>
+        <item> Baixa </item>
+    </string-array>
+
+    <string name="List">Lista de notas</string>
+    <string name="About">Sobre</string>
+    <string name="reminder">Digite o seu lembrete</string>
+    <string name="buttonCreate">Criar</string>
+    <string name="nameDenck">"  Nome:Guilherme denck "</string>
+    <string name="nameRafa">"   Nome:Rafael Santini "</string>
+    <string name="description">"Aplicativo prático para você anotar compromissos que irá ter que fazer nos dias em que você precisa, esse app vai lembrar você de quando sair para fazer algo importante,
+tornando assim a sua rotina mais fácil e prática. "</string>
+    <string name="version">Versão:9.0</string>
+    <string name="dateReminder">Data</string>
+    <string name="bottonHome">Inicio</string>
+    <string name="alertaNoRegister">Nenhum lembrete registrado</string>
+    <string name="errorConsultClient">Erro ao consultar cliente</string>
+    <string name="clicked">Clicou</string>
+    <string name="Fill">Preencha os campos !!</string>
+    <string name="reminderAddSucessfull">" Seu lembrete foi adicionado com sucesso!"</string>
+    <string name="errorAddReminder">Erro ao adicionar o lembrete</string>
+    <string name="emailOnly"> Basta inserir seu e-mail! </string>
+    <string name="passwordReset"> Email com redefinição de senha enviado com sucesso! </string>
+    <string name="enterUsername"> Digite usuário e/ou senha </string>
+    <string name="invalidUser"> Usuário e/ou senha inválido(s)! </string>
+    <string name="registerUser"> Digite usuário e/ou senha para efetuar o cadastro </string>
+    <string name="notCreate"> Não foi possível criar usuário!! </string>
+    <string name="createdSuccessfully"> Usuário criado com sucesso! </string>
+</resources>

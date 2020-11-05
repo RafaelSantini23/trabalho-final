@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Annotations</string>
+    <string name="title_activity_splash" translatable="false">Annotations</string>
+    <string name="dummy_button" translatable="false">Dummy Button</string>
+    <string name="dummy_content" translatable="false">DUMMY\nCONTENT</string>
+
+
+    <!-- Login   -->
+    <string name="banner"> Welcome to Annotations </string>
+    <string name="email"> Type your e-mail </string>
+    <string name="senha"> Type your password </string>
+    <string name="Login" translatable="false"> Login </string>
+    <string name="register"> Register </string>
+    <string name="esqueceu"> Forgot your password? </string>
+
+    <!-- Registro de anotação   -->
+    <string name="bannerRegistro"> Create your reminder </string>
+    <string name="criar"> Create </string>
+
+    <string-array name="spinner">
+        <item> Enter the relevance of your reminder</item>
+        <item> High </item>
+        <item> Medium </item>
+        <item> Low </item>
+    </string-array>
+
+    <string name="dateReminder" translatable="true"> Date </string>
+
+    <!-- Menu Drawer  -->
+
+    <string name="navigation_drawer_open" translatable="false"> Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false"> Close navigation drawer</string>
+    <string name="bottonHome"> Home </string>
+    <string name="List"> List of notes </string>
+    <string name="About"> About </string>
+    <string name="Logout" translatable="false"> Logout </string>
+    <string name="buttonCreate">Create</string>
+    <string name="title_activity_main3" translatable="false">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+
+
+    <!-- About   -->
+
+    <string name="nameRafa">   Name:Rafael Santini </string>
+    <string name="emailDenck" translatable="false">  guidenck0303@gmail.com </string>
+    <string name="emailRafa" translatable="false">   rafaelfarias.santini14@gmail.com </string>
+    <string name="description"> Practical application for you to write down appointments you will have to make on the days you need, this app will remind you when to go out to do something important, thus making your routine easier and more practical. </string>
+    <string name="version"> Version:9.0 </string>
+    <string name="nomeAnotação">" Enter a name for your reminder "</string>
+    <string name="reminder">Type your reminder</string>
+    <string name="nameDenck">"  Name:Guilherme denck "</string>
+
+
+    <!-- Fragment -->
+
+    <string name="alertaNoRegister">" No reminders registered "</string>
+    <string name="errorConsultClient"> Error consult client </string>
+    <string name="clicked">" Clicked "</string>
+    
+    <!-- Activity2   -->
+    
+    <string name="Fill"> Fill in the fields !! </string>
+    <string name="reminderAddSucessfull"> Your reminder has been added successfully! </string>
+    <string name="errorAddReminder">Error adding reminder</string>
+
+    <!--  Login  -->
+
+    <string name="emailOnly"> Just enter your email! </string>
+    <string name="passwordReset"> Password reset email sent successfully! </string>
+    <string name="enterUsername"> Enter username and / or password </string>
+    <string name="invalidUser"> Invalid username and / or password (s)! </string>
+    <string name="registerUser"> Enter username and / or password to register </string>
+    <string name="notCreate"> Could not create user !! </string>
+    <string name="createdSuccessfully"> User created successfully! </string>
+
+</resources>

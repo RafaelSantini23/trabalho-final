@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/listOfNotes"
+            android:icon="@drawable/login"
+            android:title="@string/List" />
+
+        <item
+            android:id="@+id/sobre"
+            android:icon="@drawable/login"
+            android:title="@string/About" />
+    </group>
+
+    <item android:title="Ações">
+        <menu>
+            <item
+                android:id="@+id/exit"
+                android:icon="@drawable/logout"
+                android:title="@string/Logout">
+            </item>
+        </menu>
+    </item>
+
+</menu>
